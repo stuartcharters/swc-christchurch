@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 This is a neq file
-=======
-This is a neq file
->>>>>>> testing
